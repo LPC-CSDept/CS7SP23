@@ -4,3 +4,9 @@
 [submodule "lab-5-7-KyuuLee"]
 	path = lab-5-7-KyuuLee
 	url = https://github.com/LPC-CSDept/lab-5-7-KyuuLee
+[submodule "cs7l58"]
+	path = cs7l58
+	url = https://github.com/lpc-csdept/cs7l58
+[submodule "CS7L59"]
+	path = CS7L59
+	url = https://github.com/LPC-CSDept/CS7L59
