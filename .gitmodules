@@ -22,3 +22,9 @@
 [submodule "CS7L514"]
 	path = CS7L514
 	url = https://github.com/LPC-CSDept/CS7L514
+[submodule "CS7A51"]
+	path = CS7A51
+	url = https://github.com/LPC-CSDept/CS7A51
+[submodule "CS7A52"]
+	path = CS7A52
+	url = https://github.com/LPC-CSDept/CS7A52
