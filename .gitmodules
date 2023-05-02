@@ -1,30 +1,3 @@
 [submodule "lab-5-7"]
 	path = lab-5-7
 	url = https://github.com/LPC-CSDept/lab-5-7-KyuuLee
-[submodule "lab-5-7-KyuuLee"]
-	path = lab-5-7-KyuuLee
-	url = https://github.com/LPC-CSDept/lab-5-7-KyuuLee
-[submodule "cs7l58"]
-	path = cs7l58
-	url = https://github.com/lpc-csdept/cs7l58
-[submodule "CS7L59"]
-	path = CS7L59
-	url = https://github.com/LPC-CSDept/CS7L59
-[submodule "CS7L510"]
-	path = CS7L510
-	url = https://github.com/LPC-CSDept/CS7L510
-[submodule "CS7L511"]
-	path = CS7L511
-	url = https://github.com/LPC-CSDept/CS7L511
-[submodule "CS7L512"]
-	path = CS7L512
-	url = https://github.com/LPC-CSDept/CS7L512
-[submodule "CS7L514"]
-	path = CS7L514
-	url = https://github.com/LPC-CSDept/CS7L514
-[submodule "CS7A51"]
-	path = CS7A51
-	url = https://github.com/LPC-CSDept/CS7A51
-[submodule "CS7A52"]
-	path = CS7A52
-	url = https://github.com/LPC-CSDept/CS7A52
