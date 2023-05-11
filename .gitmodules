@@ -1,3 +1,6 @@
 [submodule "lab-5-7"]
 	path = lab-5-7
 	url = https://github.com/LPC-CSDept/lab-5-7-KyuuLee
+[submodule "cs7L96"]
+	path = cs7L96
+	url = https://github.com/Lpc-csdept/cs7L96
